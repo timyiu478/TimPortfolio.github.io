@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/TimPortfolio.github.io/static/css/main.64c2406f.chunk.css",
+    "main.js": "/TimPortfolio.github.io/static/js/main.95c6b2f4.chunk.js",
+    "main.js.map": "/TimPortfolio.github.io/static/js/main.95c6b2f4.chunk.js.map",
+    "runtime-main.js": "/TimPortfolio.github.io/static/js/runtime-main.ab73da1d.js",
+    "runtime-main.js.map": "/TimPortfolio.github.io/static/js/runtime-main.ab73da1d.js.map",
+    "static/js/2.f0ec048b.chunk.js": "/TimPortfolio.github.io/static/js/2.f0ec048b.chunk.js",
+    "static/js/2.f0ec048b.chunk.js.map": "/TimPortfolio.github.io/static/js/2.f0ec048b.chunk.js.map",
+    "static/js/3.25fa1430.chunk.js": "/TimPortfolio.github.io/static/js/3.25fa1430.chunk.js",
+    "static/js/3.25fa1430.chunk.js.map": "/TimPortfolio.github.io/static/js/3.25fa1430.chunk.js.map",
+    "index.html": "/TimPortfolio.github.io/index.html",
+    "static/css/main.64c2406f.chunk.css.map": "/TimPortfolio.github.io/static/css/main.64c2406f.chunk.css.map",
+    "static/js/2.f0ec048b.chunk.js.LICENSE.txt": "/TimPortfolio.github.io/static/js/2.f0ec048b.chunk.js.LICENSE.txt",
+    "static/media/CookGame.ef11035e.jpg": "/TimPortfolio.github.io/static/media/CookGame.ef11035e.jpg",
+    "static/media/atm.32dcee2c.jpg": "/TimPortfolio.github.io/static/media/atm.32dcee2c.jpg",
+    "static/media/e_voucher.ec2bb707.jpg": "/TimPortfolio.github.io/static/media/e_voucher.ec2bb707.jpg",
+    "static/media/homepage.d337dc57.jpg": "/TimPortfolio.github.io/static/media/homepage.d337dc57.jpg",
+    "static/media/multiplication_game.2390c81e.jpg": "/TimPortfolio.github.io/static/media/multiplication_game.2390c81e.jpg",
+    "static/media/pet-online-shop.21f954e4.jpg": "/TimPortfolio.github.io/static/media/pet-online-shop.21f954e4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab73da1d.js",
+    "static/js/2.f0ec048b.chunk.js",
+    "static/css/main.64c2406f.chunk.css",
+    "static/js/main.95c6b2f4.chunk.js"
+  ]
+}
